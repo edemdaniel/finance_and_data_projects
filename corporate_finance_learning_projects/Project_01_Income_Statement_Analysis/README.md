@@ -1,4 +1,4 @@
-Project 1 — Corporate Finance Fundamentals
+Project 01 — Corporate Finance Fundamentals
 Income Statement & Profitability Analysis
 
 Objective
