@@ -1,4 +1,4 @@
-Project 1 — Corporate Finance: Profitability Audit
+Project 02 — Corporate Finance: Profitability Audit
 Executive Summary
 
 This project simulates a performance audit for a logistics company. The objective was to diagnose why Net Income dropped by 36% despite a 29% increase in Revenue.
